@@ -22,11 +22,10 @@ header {
 }
 
 .info-div {
-  background: #2e2e33;
+  background: #609;
 }
 
 .info {
-  background: #2e2e33;
   color: white;
   padding: 60px 0;
   width: 100%;
@@ -35,4 +34,6 @@ header {
 
 .calculator {
   background-image: url(./imgs/calculator-preview.png);
+  background-position: 50% 0;
+  background-size: initial;
 }
