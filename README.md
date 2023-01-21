@@ -1,3 +1,3 @@
-<h1 text-align="Center">
+<h1 align="center">
   Calculadora Azure
 </h1>
