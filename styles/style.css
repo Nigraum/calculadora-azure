@@ -70,3 +70,16 @@ h1 {
   margin-top: 25px;
   height: 500px;
 }
+
+.text-estimativa {
+  margin-bottom: 25px;
+  color: #4c4c51;
+}
+
+.products {
+  border-bottom: 2px solid #747479;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 6px 0;
+}
